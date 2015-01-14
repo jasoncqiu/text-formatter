@@ -1,0 +1,11 @@
+   Endnote1[1] Endnote2[2]  Endnote3[3] Endnote4[4] This line  should be
+unaffected by  the commands in the  endnotes, and be subject  to default
+settings.
+[1] This is  an endnote with  default settings. This sentence  should be
+    preceded by [1].
+[2] This is an endnote with a  textheight command setting it to 1, which
+    should have no effect and thus no new page is created.
+              [3] This is an endnote with  parindent 10, so it should be
+    indented by 14 and should be preceded by [3].
+          [4]  This one is the same  as the one above except with indent
+0, so it should be indented by 10 and by 0 in subsequent lines.

@@ -1,0 +1,4 @@
+This line has a default text height of 40, so there should be no new pages here.
+
+\textheight{1}
+Now the text height is 1, and every line should be on a new page. This is some filler text to show that this is indeed the case.

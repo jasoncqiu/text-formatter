@@ -1,0 +1,7 @@
+   This paragraph is in default mode.
+
+     This paragraph should be indented by 5.
+
+This paragraph should not be indented.
+
+          This paragraph should be indented by 10.

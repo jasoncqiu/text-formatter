@@ -1,0 +1,5 @@
+Endnote1\endnote{This is an endnote with default settings. This sentence should be preceded by [1].}
+Endnote2\endnote{\textheight{1}This is an endnote with a textheight command setting it to 1, which should have no effect and thus no new page is created.}
+Endnote3\endnote{\parindent{10}This is an endnote with parindent 10, so it should be indented by 14 and should be preceded by [3].}
+Endnote4\endnote{\parindent{10}\indent{0} This one is the same as the one above except with indent 0, so it should be indented by 10 and by 0 in subsequent lines.}
+This line should be unaffected by the commands in the endnotes, and be subject to default settings.
